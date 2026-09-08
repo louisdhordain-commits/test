@@ -3,6 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="ex1 - tableau 2D avec boucle for/ex1 - tableau 2D avec boucle for.vcxproj" />
   <Project Path="exercice 1/exercice 1.vcxproj" />
   <Project Path="exercice 2/exercice 2.vcxproj" />
   <Project Path="test/test.vcxproj" />
